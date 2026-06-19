@@ -74,10 +74,11 @@ ip route 192.168.20.0 255.255.255.0 23.1.1.1
 ![Router1 IP Route](router1-ip-route.png)
 ![Router2 IP Route](router2-ip-route.png)
 
+
 **Connectivity test** — from each site, pinging PCs in both of the other two sites to confirm full end-to-end routing across both WAN hops:
-![Ping from Site 1](ping-from-site1.png)
-![Ping from Site 2](ping-from-site2.png)
-![Ping from Site 3](ping-from-site3.png)
+![Ping Test 1](ping-test1.png)
+![Ping Test 2](ping-test2.png)
+![Ping Test 3](ping-test3.png)
 
 ## 🛠️ Tools Used
 - Cisco Packet Tracer
@@ -88,7 +89,7 @@ ip route 192.168.20.0 255.255.255.0 23.1.1.1
 - `router0-interface-brief.png`, `router1-interface-brief.png`, `router2-interface-brief.png`
 - `router0-running-config.png`, `router1-running-config.png`, `router2-running-config.png`
 - `router0-ip-route.png`, `router1-ip-route.png`, `router2-ip-route.png`
-- `ping-from-site1.png`, `ping-from-site2.png`, `ping-from-site3.png`
+- `ping-test1.png`, `ping-test2.png`, `ping-test3.png`
 - `README.md` – This file
 
 ## 👤 Author
